@@ -1,5 +1,5 @@
 # IDE noise
-.idea/*
+example/.idea/
 
 # OS X noise
 .DS_Store
